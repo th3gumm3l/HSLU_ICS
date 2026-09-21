@@ -1,2 +1,2 @@
-# HSLU_ICS_H25
+# HSLU_ICS
 Every coding Module in Information &amp; Cybersecurity Bachelor at HSLU
